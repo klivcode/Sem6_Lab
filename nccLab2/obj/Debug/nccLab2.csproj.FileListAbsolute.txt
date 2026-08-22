@@ -1,7 +1,0 @@
-C:\Users\klivcode\Desktop\.NET\nccLab2\bin\Debug\nccLab2.exe.config
-C:\Users\klivcode\Desktop\.NET\nccLab2\bin\Debug\nccLab2.exe
-C:\Users\klivcode\Desktop\.NET\nccLab2\bin\Debug\nccLab2.pdb
-C:\Users\klivcode\Desktop\.NET\nccLab2\obj\Debug\nccLab2.csproj.AssemblyReference.cache
-C:\Users\klivcode\Desktop\.NET\nccLab2\obj\Debug\nccLab2.csproj.CoreCompileInputs.cache
-C:\Users\klivcode\Desktop\.NET\nccLab2\obj\Debug\nccLab2.exe
-C:\Users\klivcode\Desktop\.NET\nccLab2\obj\Debug\nccLab2.pdb
