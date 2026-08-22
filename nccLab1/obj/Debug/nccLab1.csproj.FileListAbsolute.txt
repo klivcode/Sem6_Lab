@@ -1,0 +1,7 @@
+C:\Users\klivcode\Desktop\.NET\nccLab1\bin\Debug\nccLab1.exe.config
+C:\Users\klivcode\Desktop\.NET\nccLab1\bin\Debug\nccLab1.exe
+C:\Users\klivcode\Desktop\.NET\nccLab1\bin\Debug\nccLab1.pdb
+C:\Users\klivcode\Desktop\.NET\nccLab1\obj\Debug\nccLab1.csproj.AssemblyReference.cache
+C:\Users\klivcode\Desktop\.NET\nccLab1\obj\Debug\nccLab1.csproj.CoreCompileInputs.cache
+C:\Users\klivcode\Desktop\.NET\nccLab1\obj\Debug\nccLab1.exe
+C:\Users\klivcode\Desktop\.NET\nccLab1\obj\Debug\nccLab1.pdb
