@@ -17,3 +17,19 @@ bld/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
+/nccLab4/nccLab4.csproj
+/nccLab1/Properties/AssemblyInfo.cs
+/nccLab1/App.config
+/nccLab1/nccLab1.csproj
+/nccLab1/nccLab1.slnx
+/nccLab2/App.config
+/nccLab2/nccLab2.csproj
+/nccLab2/nccLab2.slnx
+/nccLab2/Properties/AssemblyInfo.cs
+/nccLab3/Properties/AssemblyInfo.cs
+/nccLab3/App.config
+/nccLab3/nccLab3.csproj
+/nccLab3/nccLab3.slnx
+/nccLab4/App.config
+/nccLab4/nccLab4.slnx
+/nccLab4/Properties/AssemblyInfo.cs
